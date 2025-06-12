@@ -1,21 +1,21 @@
-vCard - Personal Portfolio
+LakaOfc Official Website
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = LakaOfc
+LakaOfc
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+lakaofc@gmail.com
 
 Phone
-+1 (213) 352-2795
++94 999 9999 999
 
 Birthday
-June 23, 1982
+June 20, 2000
 
 Location
 Sacramento, California, USA
